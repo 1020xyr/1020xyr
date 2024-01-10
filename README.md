@@ -1,7 +1,10 @@
 个人博客网站：[https://www.jiasun.top/](https://www.jiasun.top/)
+
 CSDN博客网站：[最佳损友1020](https://blog.csdn.net/freedom1523646952?type=blog)
 
 涉及领域：固态硬盘 LevelDB
+
+邮箱：r1523646952@163.com
 
 
 <!--
